@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-real/static/css/main.a8b00634.css",
-    "main.js": "/react-real/static/js/main.c5d8692d.js",
+    "main.js": "/react-real/static/js/main.d3b3cb6c.js",
     "static/media/ironvideo2.mp4": "/react-real/static/media/ironvideo2.1805e38caaceca4f0678.mp4",
     "static/media/ironvideo1.mp4": "/react-real/static/media/ironvideo1.33e53630b97b9a63dc5c.mp4",
     "static/media/ironvideo4.mp4": "/react-real/static/media/ironvideo4.c8c8eefe22652d16aff1.mp4",
@@ -17,10 +17,10 @@
     "static/media/header-logo.png": "/react-real/static/media/header-logo.223b39651ecffcfce7f5.png",
     "index.html": "/react-real/index.html",
     "main.a8b00634.css.map": "/react-real/static/css/main.a8b00634.css.map",
-    "main.c5d8692d.js.map": "/react-real/static/js/main.c5d8692d.js.map"
+    "main.d3b3cb6c.js.map": "/react-real/static/js/main.d3b3cb6c.js.map"
   },
   "entrypoints": [
     "static/css/main.a8b00634.css",
-    "static/js/main.c5d8692d.js"
+    "static/js/main.d3b3cb6c.js"
   ]
 }
