@@ -47,9 +47,9 @@ const Footer = () => {
                 <SocialMedia>
                     <SocialMediaWrap>
                         <SocialLogo to="/" onClick={toggleHome}>
-                            Indigenous Iron Construction
+                            Real Estate Firm
                         </SocialLogo>
-                        <WebsiteRights>Indigenous Iron © {new Date().getFullYear()} All rights reserved</WebsiteRights>
+                        <WebsiteRights>Real Estate Iron © {new Date().getFullYear()} All rights reserved</WebsiteRights>
                         <SocialIcons>
                             <SocialIconLink href="//www.twitter.com/" target="_blank" aria-label="Facebook">
                                 <FaFacebook />

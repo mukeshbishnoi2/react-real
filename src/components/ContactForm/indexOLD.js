@@ -65,7 +65,7 @@ const ContactForm = ({
 																						<TextWrapper>
 																								<TopLine>Contact Us</TopLine>
 																								<Heading lightText={lightText}>Tell Us About Your Project</Heading>
-																								<Subtitle darkText={darkText}>At Indigenous Iron, our mission is to provide exceptional contracting and sub-contracting services to our clients while upholding our commitment to the values of our First Nations communities. We are dedicated to building lasting partnerships with our clients based on trust, mutual respect, and a shared vision for success. Fill out our contact form and we will be happy to help you with your project goals!</Subtitle>
+																								<Subtitle darkText={darkText}>At Real Estate Iron, our mission is to provide exceptional contracting and sub-contracting services to our clients while upholding our commitment to the values of our First Nations communities. We are dedicated to building lasting partnerships with our clients based on trust, mutual respect, and a shared vision for success. Fill out our contact form and we will be happy to help you with your project goals!</Subtitle>
 																						</TextWrapper>
 																						</Column1>
 																						<Column2>

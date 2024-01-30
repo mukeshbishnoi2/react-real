@@ -63,10 +63,10 @@ const HeroSection = () => {
         />
       </HeroBg>
       <HeroContent>
-        <HeroH1>Indigenous Iron Construction</HeroH1>
+        <HeroH1>Real Estate Firm</HeroH1>
         <HeroP>
-          Bridging Cultures, Strengthening Communities and Providing Quality
-          Contracting Services.
+          Cultures, Communities and Quality
+          Contracting Services.v
         </HeroP>
         <HeroBtnWrapper>
           <Button
